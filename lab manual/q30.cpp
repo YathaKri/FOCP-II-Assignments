@@ -5,7 +5,8 @@ int main() {
     double salaries[10];
     double totalSalary = 0;
     double averageSalary = 0;
-
+    
+    #Enter salary
     cout << "Enter salaries for 10 employees:" << endl;
 
     for (int i = 0; i < 10; i++) {
