@@ -16,6 +16,6 @@ int main() {
 
     cout << "\nMarks in 2nd subject of 1st student: " << marks[0][1] << endl;
     cout << "Marks in 5th subject of 3rd student: " << marks[2][4] << endl;
-
+//test
     return 0;
 }
