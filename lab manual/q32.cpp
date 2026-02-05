@@ -15,6 +15,6 @@ int main() {
 
     cout << "Highest: " << stocks[4] << endl;
     cout << "Second Highest: " << stocks[3] << endl;
-
+//lol
     return 0;
 }
